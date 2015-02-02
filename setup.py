@@ -1,5 +1,9 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
+# SPDX-License-Identifier: AGPL-3
+# For authorship and license information see:
+# AUTHORS.md, LICENSE.txt and http://spdx.org/licenses/AGPL-3.0
+
 from distutils.core import setup
 
 setup(
